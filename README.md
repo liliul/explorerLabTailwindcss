@@ -1,6 +1,3 @@
-#Layout feito com Tailwindcss
+# Layout feito com Tailwindcss
 
-## Iniciar com:
-´´´node
-	 live-server 
-´´´
+## Iniciar com: live-server --no-browser
